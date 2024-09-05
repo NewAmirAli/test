@@ -2,6 +2,6 @@ let x='reza'
 let y='ali'
 
 
-const sum(x,y){
+const  sum =function(x,y){
   return true
 }
