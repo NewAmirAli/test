@@ -6,7 +6,7 @@
 
 <p>this is just for `test`</p>
 
-```
+```js
 const  sum =function(x,y){
   return true
 }
