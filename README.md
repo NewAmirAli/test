@@ -3,14 +3,17 @@
 
 <!-- h2 -->
 ## amirali 
+inline `code`
 
-<p>this is just for `test`</p>
+<p>this is just for test</p>
 
-```js
+```javascript
 const  sum =function(x,y){
   return true
 }
 ```
+
+[hello](https://www.wikipedia.org/)
 
 <!-- for hr -->
 --- 
