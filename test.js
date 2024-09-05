@@ -6,4 +6,4 @@ const  sum =function(x,y){
   return true
 }
 
-console.log(13)
+console.log(12)
